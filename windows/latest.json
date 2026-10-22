@@ -1,8 +1,0 @@
-{
-  "version": "0.19.1",
-  "date": "2026-10-22",
-  "notes": "• Signing in to Google works in the Gmail setup — Google refused the sign-in with \"This browser or app may not be secure\". You now sign in, and let Fresta read your mail, in a window Fresta doesn't control; it takes over only once the Cloud console shows, and an \"I'm signed in\" button in Settings is there if it doesn't notice.\r",
-  "url": "https://github.com/Dirt2939/fresta-releases/releases/download/windows-v0.19.1/Fresta-Setup.exe",
-  "sha256": "3398599759355cc3ee16a93f727b9ec1f7dfbd25b33dc8ca08e9e6aac4db3e82",
-  "size": 3941116
-}
